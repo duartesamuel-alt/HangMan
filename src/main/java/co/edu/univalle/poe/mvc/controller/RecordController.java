@@ -22,7 +22,7 @@ public class RecordController {
     public RecordController(){
       record = new Record();
     }
-
+/*
     @FXML
     public void guardarDatos(){
         //validar que los campos estén bien diligenciados
@@ -55,6 +55,7 @@ public class RecordController {
         }
     }
 
+
     @FXML
     public void cargarDatos(){
         RecordJugador recordJugador = record.loadRecord();
@@ -66,4 +67,6 @@ public class RecordController {
         txtNombre.setText("");
         txtPuntaje.setText("");
     }
+
+ */
 }
